@@ -1,1 +1,1 @@
-It's small programe thal will retrive all the reaction/emotion from a facebook post .
+It's small programe that will retrive all the reaction/emotion from a facebook post .
